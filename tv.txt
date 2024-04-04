@@ -2046,7 +2046,7 @@ Tara皇冠2,http://blanki.cf/api/douyu.php?id=3221207
 宝宝巴士启蒙音乐剧,http://ftp9524803.host166.gotoip4.cn/youku.php?id=8035320
 螺丝钉1,http://ftp9524803.host166.gotoip4.cn/youku.php?id=8035318
 平博士密码1,http://ftp9524803.host166.gotoip4.cn/youku.php?id=8035319
-YY,#genre#
+YY,#类型#
 YY|胡歌  郡主 ,http://ftp9524803.host166.gotoip4.cn/yy.php?id=35467265
 YY|亮剑 超清全屏 小星星,http://ftp9524803.host166.gotoip4.cn/yy.php?id=32110908
 YY|【爱情公寓】超清,http://ftp9524803.host166.gotoip4.cn/yy.php?id=38525272
@@ -2127,25 +2127,6 @@ YY|亮剑 超清,http://ftp9524803.host166.gotoip4.cn/yy.php?id=27321535
 电影18_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/509520/live_420351661_73320656.m3u8
 电影19_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/800522/live_334056_8894439.m3u8
 电影23_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/842918/live_97065163_17925468.m3u8
-酷狗,#genre#
-酷狗.影视1,https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_std_avc.xs
-酷狗.影视2,https://tx.liveplay.live.kugou.com/live/fx_hifi_1638135185_avc.xs
-酷狗.影视3,http://tx.liveplay.live.kugou.com:80/live/fx_hifi_1319986999_std_avc.xs
-酷狗.影视4,http://tx.liveplay.live.fanxing.com:80/live/fx_hifi_1772083185_avc.xs
-酷狗.影视5,https://tx.liveplay.live.kugou.com/live/fx_hifi_1789509948_std_avc.xs
-酷狗.影视6,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1703410100_std_avc.m3u8
-酷狗.影视7,http://tx.liveplay.live.fanxing.com/live/fx_hifi_141276179_avc.m3u8
-酷狗.影视8,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1460993762_std_avc.m3u8
-酷狗.影视9,http://aliyun.liveplay.live.kugou.com/live/fx_hifi_290507595_std_avc.m3u8
-酷狗.影视10,http://tx.liveplay.live.fanxing.com/live/fx_hifi_251702616_std_avc.m3u8
-酷狗.影视11,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1175010873_avc.m3u8
-酷狗.影视13,http://aliyun3.liveplay.live.kugou.com/live/fx_hifi_297671546_avc.m3u8
-酷狗.影视14,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1398580524_avc.m3u8
-酷狗.影视15,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1417248603_std_avc.m3u8
-酷狗.影视16,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1753782564_avc.m3u8
-酷狗.影视17,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1304068624_avc.m3u8
-酷狗.影视18,http://aliyun.liveplay.live.kugou.com/live/fx_hifi_1709548737_std_avc.m3u8
-酷狗.影视19,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1308722194_std_avc.m3u8
 其他,#genre#
 BsstTV4K,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
