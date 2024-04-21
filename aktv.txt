@@ -1,4 +1,4 @@
-﻿央视,#流派#
+﻿央视,#genre#
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕移1080p
 CCTV-1综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 CCTV-1综合,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8$陕广1080p
@@ -1180,5 +1180,5 @@ YY影视,#genre#
 解说_默爷侃电影,http://124.248.69.76:35455/huya/17204307
 解说_冷君说电影,http://124.248.69.76:35455/huya/16739452
 解说_刘老师说电影,http://124.248.69.76:35455/huya/20289754
-github接口,#流派#
+github接口,#genre#
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
