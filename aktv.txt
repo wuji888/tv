@@ -23,9 +23,9 @@ CCTV-7国防军事,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$闪移1080p
 CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 CCTV-8电视剧,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8$陕广1080p
-CCTV-9记录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕移1080p
-CCTV-9记录,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
-CCTV-9记录,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8$陕广1080p
+CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕移1080p
+CCTV-9纪录,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
+CCTV-9纪录,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8$陕广1080p
 CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$闪移1080p
 CCTV-10科教,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 CCTV-10科教,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8$陕广1080p
