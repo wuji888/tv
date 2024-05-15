@@ -586,8 +586,8 @@ NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/
 NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-NewTV健身锻炼,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-NewTV健身锻炼,http://39.134.66.66/PLTV/88888888/224/3221226053/index.m3u8
+NewTV全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+NewTV全民热练,http://39.134.66.66/PLTV/88888888/224/3221226053/index.m3u8
 NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
