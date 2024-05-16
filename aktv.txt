@@ -122,7 +122,7 @@ CETV早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3$iTV2
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3$iTV6
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3$iTV2
-卫视,#流派#
+卫视,#genre#
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8$陕移1080p
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8$闪移1080p
