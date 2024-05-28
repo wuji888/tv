@@ -365,8 +365,6 @@ CETV早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
 咸阳公共,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227060/1.m3u8$陕移576p
 咸阳公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002764/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河576p
 咸阳公共,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226041/index.m3u8$陕广576p
-咸阳教育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227075/1.m3u8$陕移576p
-咸阳教育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002875/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河576p
 宝鸡综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕移1080p
 宝鸡综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 宝鸡综合,https://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226038/index.m3u8$陕广1080pk
