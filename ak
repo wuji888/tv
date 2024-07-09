@@ -658,156 +658,155 @@ Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 证券服务,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000601$辽广576p
 江苏财富天下,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEF GH&programid=4200000231$辽广576p
 斗鱼影视,#genre#
-《武侠剧》[1024*768],http://124.248.69.76:35455/douyu/7655471
-【4K HDR】杜比全景声[3840*2160],http://124.248.69.76:35455/douyu/9249162
-【贝爷MAX厅】科幻动作经典喜剧[1920*1080],http://124.248.69.76:35455/douyu/4332
-【贝爷影厅】经典科幻动作灾难巨兽[1920*1080],http://124.248.69.76:35455/douyu/252802
-【超清1】经典港剧天地[1280*720],http://124.248.69.76:35455/douyu/4290711
-【超清2】热门港剧天地[1280*720],http://124.248.69.76:35455/douyu/5522351
-【超清3】人气港剧天地[1280*720],http://124.248.69.76:35455/douyu/5261342
-【大明】天地不仁，以万物为刍狗[1920*1080],http://124.248.69.76:35455/douyu/9650849
-【大片】科幻动作魔幻喜剧效果字幕[1280*720],http://124.248.69.76:35455/douyu/562225
-【豆瓣高分】史上最佳影片大放送[1920*1080],http://124.248.69.76:35455/douyu/8770422
-【花卷陪看】豆瓣高评分电影[1920*1080],http://124.248.69.76:35455/douyu/52787
-【僵尸】[1280*720],http://124.248.69.76:35455/douyu/3627728
-【经典神剧】[1280*720],http://124.248.69.76:35455/douyu/508118
-【恐怖】经典 恐怖 鬼怪 剧场[1280*692],http://124.248.69.76:35455/douyu/1165374
-【蓝翔】弹幕天团、下饭神剧[请勿刷屏][1280*720],http://124.248.69.76:35455/douyu/276200
-【蓝翔】经典电视剧[960*540],http://124.248.69.76:35455/douyu/7459925
-【刘罗锅】来人！给我拿下！[1412*1080],http://124.248.69.76:35455/douyu/7473576
-【漫威】漫威主线剧情 最佳观影顺序,http://124.248.69.76:35455/douyu/6140589
-【漫威宇宙动漫解说】[1920*1080],http://124.248.69.76:35455/douyu/9963128
-【漫威与DC】精彩有声漫画[1920*1080],http://124.248.69.76:35455/douyu/1952680
-【变种人】[1920*1080],http://124.248.69.76:35455/douyu/9651304
-【西游记】你挑着担，我牵着马[1280*720],http://124.248.69.76:35455/douyu/8953746
-【美食】深夜美食就是罪恶[1920*1080],http://124.248.69.76:35455/douyu/9650860
-【沙雕】[1280*720],http://124.248.69.76:35455/douyu/7421687
-【神乐】华语经典电影沉腾周星驰,http://124.248.69.76:35455/douyu/85894
-【宋江】梁园虽好不是久恋之家[960*540],http://124.248.69.76:35455/douyu/3758762
-【天使点播】[1280*720],http://124.248.69.76:35455/douyu/7623292
-【屠龙】凛冬将至，夜王之争[1920*1080],http://124.248.69.76:35455/douyu/8945323
-【吐槽】[1080*602],http://124.248.69.76:35455/douyu/9236042
-【神剧】【燕双鹰】【狄仁杰】,http://124.248.69.76:35455/douyu/5875025
-【小宇】[1280*720],http://124.248.69.76:35455/douyu/54945
-【小宇点儿】60帧科幻动作喜剧电影[1920*1080],http://124.248.69.76:35455/douyu/323876
-【雍正】[788*480],http://124.248.69.76:35455/douyu/9650836
-【宇哥】[1920*1080],http://124.248.69.76:35455/douyu/413573
-【冤案】夫斯乃上蔡布衣，闾巷之黔首[1920*1080],http://124.248.69.76:35455/douyu/6706214
-【重案】[608*480],http://124.248.69.76:35455/douyu/9290734
-【周星驰】星爷 华语 成龙 电影 神乐[1920*1080],http://124.248.69.76:35455/douyu/122402
-【罪案】[512*384],http://124.248.69.76:35455/douyu/9019945
-♥️周杰伦♥️MV音乐演唱会高清电影视频,http://124.248.69.76:35455/douyu/7537296
-❤️悍匪技术学院❤️。。。。[1280*720],http://124.248.69.76:35455/douyu/922564
-❤️可乐❤️电影 欧美 科幻 经典[1920*1080],http://124.248.69.76:35455/douyu/20415
-❤️瑜伽❤️[1280*720],http://124.248.69.76:35455/douyu/762079
-♥ 港剧 动漫 美剧❤️,http://124.248.69.76:35455/douyu/6581531
-✨曾小贤✨胡一菲✨第三季✨第一季✨[1920*1080],http://124.248.69.76:35455/douyu/2838296
-1900影剧室精讲剧场[1280*720],http://124.248.69.76:35455/douyu/7796193
-傲娇的超级赛亚人的直播间[1280*720],http://124.248.69.76:35455/douyu/4373285
-邦德影院[1280*720],http://124.248.69.76:35455/douyu/9292499
-贝贝影院[1920*1080],http://124.248.69.76:35455/douyu/431460
-避风港电影院[1280*720],http://124.248.69.76:35455/douyu/9826611
-表妹影院[1536*864],http://124.248.69.76:35455/douyu/5423
-曾经的回忆[1280*720],http://124.248.69.76:35455/douyu/7812810
-德善[1920*1080],http://124.248.69.76:35455/douyu/8600645
-电影·赌片[1280*720],http://124.248.69.76:35455/douyu/315457
-电影·国语译制[1920*1080],http://124.248.69.76:35455/douyu/2436390
-电影·恐怖灾难[1920*1080],http://124.248.69.76:35455/douyu/263824
-电影·酷炫3[1280*720],http://124.248.69.76:35455/douyu/36337
-电影·麓山迷踪[1280*720],http://124.248.69.76:35455/douyu/4505431
-电影·欧美[1280*720],http://124.248.69.76:35455/douyu/2793084
-电影·喜剧[640*360],http://124.248.69.76:35455/douyu/9292492
-电影·怡宝港台科幻恐怖[1280*720],http://124.248.69.76:35455/douyu/434971
-电影·影院[1920*1080],http://124.248.69.76:35455/douyu/1274132
-电影·粤语2[1280*720],http://124.248.69.76:35455/douyu/5033502
-古装动作[704*480],http://124.248.69.76:35455/douyu/9290755
-渡尽劫波兄弟在，相逢一笑泯恩仇！[1920*1080],http://124.248.69.76:35455/douyu/7575350
-范闲、王启年、陈萍萍~[1280*720],http://124.248.69.76:35455/douyu/5908256
-港剧电视剧[1280*720],http://124.248.69.76:35455/douyu/9548850
-鬼片恐怖惊悚[1536*864],http://124.248.69.76:35455/douyu/2935323
-好剧播不停[1280*720],http://124.248.69.76:35455/douyu/7476264
-胡歌[1280*720],http://124.248.69.76:35455/douyu/5448413
-荒野建造者[1920*1080],http://124.248.69.76:35455/douyu/9611578
-或许人人都是主角[720*432],http://124.248.69.76:35455/douyu/8787737
-金庸武侠、古装神剧[960*540],http://124.248.69.76:35455/douyu/338759
-经典好剧[1280*720],http://124.248.69.76:35455/douyu/9738876
-经典小品[1920*1080],http://124.248.69.76:35455/douyu/9067836
-惊悚影院[1280*720],http://124.248.69.76:35455/douyu/96577
-恐怖故事[1280*720],http://124.248.69.76:35455/douyu/2337939
-恐怖灾难[1280*720],http://124.248.69.76:35455/douyu/310926
-懒懒壁虎[1280*720],http://124.248.69.76:35455/douyu/5127679
-懒猫美食[1280*720],http://124.248.69.76:35455/douyu/260322
-李卫当官[1280*720],http://124.248.69.76:35455/douyu/2096337
-林正英[1920*1080],http://124.248.69.76:35455/douyu/218859
-动画7528160[1280*720],http://124.248.69.76:35455/douyu/7528160
-陪看·刀刀[1920*1080],http://124.248.69.76:35455/douyu/747764
-陪看·小鸽[1280*720],http://124.248.69.76:35455/douyu/3928
-陪看·橙子[1280*720],http://124.248.69.76:35455/douyu/4549169
-陪看·小栗子[1280*720],http://124.248.69.76:35455/douyu/7254536
-陪看·小圆子[1920*1080],http://124.248.69.76:35455/douyu/6566658
-陪看·凌儿港片 动作 科幻 喜剧[1280*720],http://124.248.69.76:35455/douyu/1377142
-片源多多[1280*720],http://124.248.69.76:35455/douyu/6332732
-庆余年1[1920*1080],http://124.248.69.76:35455/douyu/7489563
-全网最清晰林正英[712*400],http://124.248.69.76:35455/douyu/7356023
-双倍亲密度✨一起看看~✨[1280*720],http://124.248.69.76:35455/douyu/6079455
-康熙微服私访记[720*480],http://124.248.69.76:35455/douyu/7550220
-随机连播[1280*720],http://124.248.69.76:35455/douyu/6369954
-特辑影院[1280*720],http://124.248.69.76:35455/douyu/3637778
-天才出少年[1920*1080],http://124.248.69.76:35455/douyu/2726977
-万合出品[1920*1080],http://124.248.69.76:35455/douyu/9220456
-午夜故事[1920*1080],http://124.248.69.76:35455/douyu/8722254
-肖胜350的直播间[1280*720],http://124.248.69.76:35455/douyu/7338853
-燕双鹰，狄仁杰！[1280*720],http://124.248.69.76:35455/douyu/3439096
-一般的经典[1920*1080],http://124.248.69.76:35455/douyu/3705472
-元芳到底看不看[1280*720],http://124.248.69.76:35455/douyu/6027991
-粤语电影⭐周星驰林正英喜剧经典白话[1920*1080],http://124.248.69.76:35455/douyu/6566671
-朱元璋[960*540],http://124.248.69.76:35455/douyu/308752
-【隋唐演义】,http://124.248.69.76:35455/douyu/7552568
-金庸剧,http://124.248.69.76:35455/douyu/9653063
-【刑侦】,http://124.248.69.76:35455/douyu/138959
-【鉴侦】,http://124.248.69.76:35455/douyu/8323493
-【动漫合集】,http://124.248.69.76:35455/douyu/7620081
-【柯南】,http://124.248.69.76:35455/douyu/6484910
-【动漫】超燃 怀旧 经典,http://124.248.69.76:35455/douyu/1174353
-【天使点播动漫】,http://124.248.69.76:35455/douyu/1487654
-晓妞动漫花园o(∩_∩)o,http://124.248.69.76:35455/douyu/426517
-【悬疑】午夜惊悚乐园,http://124.248.69.76:35455/douyu/9075333
-【邵氏影院】经典武侠 动作,http://124.248.69.76:35455/douyu/4246519
-【经典武侠】时代的记忆,http://124.248.69.76:35455/douyu/9649701
-【经典搞笑电视剧】轮播♥高清,http://124.248.69.76:35455/douyu/5429211
-【胥渡吧】经典搞笑 神配音,http://124.248.69.76:35455/douyu/2040822
-美丽的孔雀公主,http://124.248.69.76:35455/douyu/3113309
-【港片细品】演员视角,http://124.248.69.76:35455/douyu/9129814
-三国新,http://124.248.69.76:35455/douyu/10906963
-港剧:最最最经典的电视剧直播间,http://124.248.69.76:35455/douyu/5061550
-济公/聊斋的故事,http://124.248.69.76:35455/douyu/10475459
-影视 笑工场,http://124.248.69.76:35455/douyu/10298846
-经典老电影，那种非常经典的,http://124.248.69.76:35455/douyu/10411518
-跟着小猪一起看【热剧联播】,http://124.248.69.76:35455/douyu/10297898
-爱星影视的直播间,http://124.248.69.76:35455/douyu/9476806
-【大秦】,http://124.248.69.76:35455/douyu/1584198
-活佛济公,http://124.248.69.76:35455/douyu/8595134
-小时候的经典,http://124.248.69.76:35455/douyu/710673
-发现放映室,http://124.248.69.76:35455/douyu/8791622
-【怀旧】,http://124.248.69.76:35455/douyu/6861249
-❤气人主播小鸭叽❤[1920*1080],http://124.248.69.76:35455/douyu/7925840
-玖月影视的直播间,http://124.248.69.76:35455/douyu/9339251
-正常开播，欢迎欢迎[1280*720],http://124.248.69.76:35455/douyu/319576
-【小趴菜】惊悚2000部,http://124.248.69.76:35455/douyu/7882691
-『猫猫』ッ ,http://124.248.69.76:35455/douyu/9242659
-〖師落〗,http://124.248.69.76:35455/douyu/6582435
-香港电影[1920*1080],http://124.248.69.76:35455/douyu/8107217
-【科幻片】最专业的科幻片解说[1920*1080],http://124.248.69.76:35455/douyu/9338839
-解说科幻[1920*1080],http://124.248.69.76:35455/douyu/3508304
-九叔说电影[1280*720],http://124.248.69.76:35455/douyu/9348282
-牛叔说电影[1280*720],http://124.248.69.76:35455/douyu/2758565
-【虫哥】虫哥说电影,http://124.248.69.76:35455/douyu/8915074
-迷小雅最新爽剧解说,http://124.248.69.76:35455/douyu/9639225
-【百晓生】经典武侠解说,http://124.248.69.76:35455/douyu/9649681
-最新奇幻电影解说,http://124.248.69.76:35455/douyu/3194372
-【经典悬疑烧脑剧解说】,http://124.248.69.76:35455/douyu/8790357
-小儛陪你聊电影,http://124.248.69.76:35455/douyu/8362978
-长片短解,http://124.248.69.76:35455/douyu/9410946
+《武侠剧》,https://www.goodiptv.club/douyu/7655471
+【贝爷MAX厅】科幻 动作 经典 喜剧,https://www.goodiptv.club/douyu/4332
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,https://www.goodiptv.club/douyu/252802
+【超清1】经典港剧天地,https://www.goodiptv.club/douyu/4290711
+【超清2】热门港剧天地,https://www.goodiptv.club/douyu/5522351
+【超清3】人气港剧天地,https://www.goodiptv.club/douyu/5261342
+【大明】天地不仁，以万物为刍狗,https://www.goodiptv.club/douyu/9650849
+【大片】科幻 动作 魔幻 喜剧 特效字幕,https://www.goodiptv.club/douyu/562225
+【豆瓣高分】史上最佳影片大放送,https://www.goodiptv.club/douyu/8770422
+【花卷陪看】豆瓣高评分电影,https://www.goodiptv.club/douyu/52787
+【僵尸】,https://www.goodiptv.club/douyu/3627728
+【经典神剧】,https://www.goodiptv.club/douyu/508118
+【恐怖】经典 恐怖 鬼怪 剧场,https://www.goodiptv.club/douyu/1165374
+【蓝翔】弹幕天团、下饭神剧[请勿刷屏],https://www.goodiptv.club/douyu/276200
+【蓝翔】经典电视剧,https://www.goodiptv.club/douyu/7459925
+【刘罗锅】来人！给我拿下！,https://www.goodiptv.club/douyu/7473576
+【漫威】漫威主线剧情 最佳观影顺序,https://www.goodiptv.club/douyu/6140589
+【漫威宇宙动漫解说】,https://www.goodiptv.club/douyu/9963128
+【漫威与DC】精彩有声漫画,https://www.goodiptv.club/douyu/1952680
+【变种人】,https://www.goodiptv.club/douyu/9651304
+【西游记】你挑着担，我牵着马,https://www.goodiptv.club/douyu/8953746
+【美食】深夜美食就是罪恶,https://www.goodiptv.club/douyu/9650860
+【沙雕】,https://www.goodiptv.club/douyu/7421687
+【神乐】华语 经典 电影 沈腾 周星驰,https://www.goodiptv.club/douyu/85894
+【宋江】梁园虽好不是久恋之家,https://www.goodiptv.club/douyu/3758762
+【天使点播】,https://www.goodiptv.club/douyu/7623292
+【屠龙】凛冬将至，夜王之争,https://www.goodiptv.club/douyu/8945323
+【吐槽】,https://www.goodiptv.club/douyu/9236042
+【神剧】【燕双鹰】【狄仁杰】,https://www.goodiptv.club/douyu/5875025
+【小宇】,https://www.goodiptv.club/douyu/54945
+【小宇点儿】60帧 科幻 动作 喜剧电影,https://www.goodiptv.club/douyu/323876
+【雍正】,https://www.goodiptv.club/douyu/9650836
+【宇哥】,https://www.goodiptv.club/douyu/413573
+【冤案】夫斯乃上蔡布衣，闾巷之黔首,https://www.goodiptv.club/douyu/6706214
+【重案】,https://www.goodiptv.club/douyu/9290734
+【周星驰】星爷 华语 成龙 电影 神乐,https://www.goodiptv.club/douyu/122402
+【罪案】,https://www.goodiptv.club/douyu/9019945
+♥️周杰伦♥️MV音乐演唱会高清电影视频,https://www.goodiptv.club/douyu/7537296
+❤️悍匪技术学院❤️。。。。,https://www.goodiptv.club/douyu/922564
+❤️可乐❤️电影 欧美 科幻 经典,https://www.goodiptv.club/douyu/20415
+❤️瑜伽❤️,https://www.goodiptv.club/douyu/762079
+♥ 港剧 动漫 美剧❤️,https://www.goodiptv.club/douyu/6581531
+✨曾小贤✨胡一菲✨第三季✨第一季✨,https://www.goodiptv.club/douyu/2838296
+1900影剧室精讲剧场,https://www.goodiptv.club/douyu/7796193
+傲娇的超级赛亚人的直播间,https://www.goodiptv.club/douyu/4373285
+邦德影院,https://www.goodiptv.club/douyu/9292499
+贝贝影院,https://www.goodiptv.club/douyu/431460
+避风港电影院,https://www.goodiptv.club/douyu/9826611
+表妹影院,https://www.goodiptv.club/douyu/5423
+曾经的回忆,https://www.goodiptv.club/douyu/7812810
+德善,https://www.goodiptv.club/douyu/8600645
+电影·赌片,https://www.goodiptv.club/douyu/315457
+电影·国语译制,https://www.goodiptv.club/douyu/2436390
+电影·恐怖灾难,https://www.goodiptv.club/douyu/263824
+电影·酷炫3,https://www.goodiptv.club/douyu/36337
+电影·麓山迷踪,https://www.goodiptv.club/douyu/4505431
+电影·欧美,https://www.goodiptv.club/douyu/2793084
+电影·喜剧,https://www.goodiptv.club/douyu/9292492
+电影·怡寶港台 科幻 喜剧 恐怖,https://www.goodiptv.club/douyu/434971
+电影·影院,https://www.goodiptv.club/douyu/1274132
+电影·粤语2,https://www.goodiptv.club/douyu/5033502
+古装动作,https://www.goodiptv.club/douyu/9290755
+渡尽劫波兄弟在，相逢一笑泯恩仇！,https://www.goodiptv.club/douyu/7575350
+范闲、王启年、陈萍萍~,https://www.goodiptv.club/douyu/5908256
+港剧电视剧,https://www.goodiptv.club/douyu/9548850
+鬼片恐怖惊悚,https://www.goodiptv.club/douyu/2935323
+好剧播不停,https://www.goodiptv.club/douyu/7476264
+胡歌,https://www.goodiptv.club/douyu/5448413
+荒野建造者,https://www.goodiptv.club/douyu/9611578
+或许人人都是主角,https://www.goodiptv.club/douyu/8787737
+金庸武侠、古装神剧,https://www.goodiptv.club/douyu/338759
+经典好剧,https://www.goodiptv.club/douyu/9738876
+经典小品,https://www.goodiptv.club/douyu/9067836
+惊悚影院,https://www.goodiptv.club/douyu/96577
+恐怖故事,https://www.goodiptv.club/douyu/2337939
+恐怖灾难,https://www.goodiptv.club/douyu/310926
+懒懒壁虎,https://www.goodiptv.club/douyu/5127679
+懒猫美食,https://www.goodiptv.club/douyu/260322
+李卫当官,https://www.goodiptv.club/douyu/2096337
+林正英,https://www.goodiptv.club/douyu/218859
+动画7528160,https://www.goodiptv.club/douyu/7528160
+陪看·刀刀,https://www.goodiptv.club/douyu/747764
+陪看·小鸽,https://www.goodiptv.club/douyu/3928
+陪看·橙子,https://www.goodiptv.club/douyu/4549169
+陪看·小栗子,https://www.goodiptv.club/douyu/7254536
+陪看·小圆子,https://www.goodiptv.club/douyu/6566658
+陪看·凌儿港片 动作 科幻 喜剧,https://www.goodiptv.club/douyu/1377142
+片源多多,https://www.goodiptv.club/douyu/6332732
+庆余年1,https://www.goodiptv.club/douyu/7489563
+全网最清晰林正英],https://www.goodiptv.club/douyu/7356023
+双倍亲密度✨一起看看~✨,https://www.goodiptv.club/douyu/6079455
+康熙微服私访记,https://www.goodiptv.club/douyu/7550220
+随机连播,https://www.goodiptv.club/douyu/6369954
+特辑影院,https://www.goodiptv.club/douyu/3637778
+天才出少年,https://www.goodiptv.club/douyu/2726977
+万合出品,https://www.goodiptv.club/douyu/9220456
+午夜故事,https://www.goodiptv.club/douyu/8722254
+肖胜350的直播间,https://www.goodiptv.club/douyu/7338853
+燕双鹰，狄仁杰！,https://www.goodiptv.club/douyu/3439096
+一般的经典,https://www.goodiptv.club/douyu/3705472
+元芳到底看不看,https://www.goodiptv.club/douyu/6027991
+粤语电影⭐周星驰 林正英 经典喜剧 白话,https://www.goodiptv.club/douyu/6566671
+朱元璋,https://www.goodiptv.club/douyu/308752
+【隋唐演义】,https://www.goodiptv.club/douyu/7552568
+金庸剧,https://www.goodiptv.club/douyu/9653063
+【刑侦】,https://www.goodiptv.club/douyu/138959
+【鉴侦】,https://www.goodiptv.club/douyu/8323493
+【动漫合集】,https://www.goodiptv.club/douyu/7620081
+【柯南】,https://www.goodiptv.club/douyu/6484910
+【动漫】超燃 怀旧 经典,https://www.goodiptv.club/douyu/1174353
+【天使点播动漫】,https://www.goodiptv.club/douyu/1487654
+晓妞动漫花园o(∩_∩)o,https://www.goodiptv.club/douyu/426517
+【悬疑】午夜惊悚乐园,https://www.goodiptv.club/douyu/9075333
+【邵氏影院】经典武侠 动作,https://www.goodiptv.club/douyu/4246519
+【经典武侠】时代的记忆,https://www.goodiptv.club/douyu/9649701
+【经典搞笑电视剧】轮播♥高清,https://www.goodiptv.club/douyu/5429211
+【胥渡吧】经典搞笑 神配音,https://www.goodiptv.club/douyu/2040822
+美丽的孔雀公主,https://www.goodiptv.club/douyu/3113309
+【港片细品】演员视角,https://www.goodiptv.club/douyu/9129814
+三国新,https://www.goodiptv.club/douyu/10906963
+港剧:最最最经典的电视剧直播间,https://www.goodiptv.club/douyu/5061550
+济公/聊斋的故事,https://www.goodiptv.club/douyu/10475459
+影视 笑工场,https://www.goodiptv.club/douyu/10298846
+经典老电影，那种非常经典的,https://www.goodiptv.club/douyu/10411518
+跟着小猪一起看【热剧联播】,https://www.goodiptv.club/douyu/10297898
+爱星影视的直播间,https://www.goodiptv.club/douyu/9476806
+【大秦】,https://www.goodiptv.club/douyu/1584198
+活佛济公,https://www.goodiptv.club/douyu/8595134
+小时候的经典,https://www.goodiptv.club/douyu/710673
+发现放映室,https://www.goodiptv.club/douyu/8791622
+【怀旧】,https://www.goodiptv.club/douyu/6861249
+❤气人主播小鸭叽❤,https://www.goodiptv.club/douyu/7925840
+玖月影视的直播间,https://www.goodiptv.club/douyu/9339251
+正常开播，欢迎欢迎,https://www.goodiptv.club/douyu/319576
+【小趴菜】惊悚2000部,https://www.goodiptv.club/douyu/7882691
+『猫猫』ッ ,https://www.goodiptv.club/douyu/9242659
+〖師落〗,https://www.goodiptv.club/douyu/6582435
+香港电影,https://www.goodiptv.club/douyu/8107217
+【科幻片】最专业的科幻片解说,https://www.goodiptv.club/douyu/9338839
+解说科幻,https://www.goodiptv.club/douyu/3508304
+九叔说电影,https://www.goodiptv.club/douyu/9348282
+牛叔说电影,https://www.goodiptv.club/douyu/2758565
+【虫哥】虫哥说电影,https://www.goodiptv.club/douyu/8915074
+迷小雅最新爽剧解说,https://www.goodiptv.club/douyu/9639225
+【百晓生】经典武侠解说,https://www.goodiptv.club/douyu/9649681
+最新奇幻电影解说,https://www.goodiptv.club/douyu/3194372
+【经典悬疑烧脑剧解说】,https://www.goodiptv.club/douyu/8790357
+小儛陪你聊电影,https://www.goodiptv.club/douyu/8362978
+长片短解,https://www.goodiptv.club/douyu/9410946
 虎牙影视,#genre#
 周星驰,http://124.248.69.76:35455/huya/11342412
 周星驰2,http://124.248.69.76:35455/huya/11336587
