@@ -3,7 +3,7 @@
       
 
     {
-      "name": "Gitcode",
+      "name": "Github",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuji888/tv/main/ak",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
