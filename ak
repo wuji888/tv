@@ -1,4 +1,4 @@
-央视,#genre#
+央视频道,#genre#
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕移1080p
 CCTV-1综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕移1080p
@@ -122,7 +122,7 @@ CETV早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3$iTV2
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3$iTV6
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3$iTV2
-卫视,#genre#
+卫视频道,#genre#
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8$陕移1080p
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8$闪移1080p
@@ -244,7 +244,7 @@ CETV早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
 青海安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8$576p
 西藏藏语,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000021549/1.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3$iTV5 576p
 西藏藏语,http://39.136.18.165:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls$贵移576p
-陕西,#genre#
+陕西频道,#genre#
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/1.m3u8$陕移1080p
 陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 陕西卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8$陕广1080p
@@ -423,7 +423,7 @@ CETV早期教育,http://lu1.cc/c/tv/php/cqyx.php?id=zqjy
 汉中公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 汉中教育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/1.m3u8$陕移1080p
 汉中教育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
-NewTV,#genre#
+NewTV6,#genre#
 NewTV欢乐剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3$iTV1
 NewTV欢乐剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3$iTV2
 NewTV古装剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3$iTV2
@@ -488,7 +488,7 @@ NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 NewTV全民热练,http://39.134.66.66/PLTV/88888888/224/3221226053/index.m3u8
 NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-iHOT,#genre#
+iHOTV6,#genre#
 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
@@ -528,7 +528,7 @@ Hot欧美影院,http://zteres.sn.chinamobile.com:6060/000000001000/7185203501769
 Hot欧美影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3$iTV2
 Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/5841816227539527643/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3$iTV5
 Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3$iTV2
-上海,#genre#
+上海频道,#genre#
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8$陕移1080p
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$银河1080p
 上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$iTV5
@@ -582,7 +582,7 @@ Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3$iTV5
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3$iTV2
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$iTV5
-浙江,#genre#
+浙江频道,#genre#
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -593,7 +593,7 @@ Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-4K超清,#genre#
+4K超高清,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1
@@ -608,7 +608,7 @@ Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-华数中数_8888,#genre#
+华数中数,#genre#
 哒啵赛事,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000004&livemode=1&stbId=3$iTV2
 哒啵赛事,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000039/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000039&livemode=1&stbId=3$iTV2
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
@@ -1062,3 +1062,13 @@ YY影视,#genre#
 解说_刘老师说电影,http://124.248.69.76:35455/huya/20289754
 github接口,#genre#
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://220.130.201.73/sat/tv091
+华视,rtmp://220.130.201.73/sat/tv111
+民视,rtmp://220.130.201.73/sat/tv051
+台视,rtmp://220.130.201.73/sat/tv071
+香港环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
