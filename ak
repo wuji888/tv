@@ -488,7 +488,7 @@ NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 NewTV全民热练,http://39.134.66.66/PLTV/88888888/224/3221226053/index.m3u8
 NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-iHOTV6,#genre#
+iHOT V6,#genre#
 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
@@ -932,7 +932,7 @@ DC宇宙,http://124.248.69.76:35455/huya/11342428
 电影_死神来了,http://124.248.69.76:35455/huya/11352903
 电影_怪shou系列,http://124.248.69.76:35455/huya/21059554
 搞笑_陈翔六点半,http://124.248.69.76:35455/huya/11274154
-YY影视,#genre#
+Y Y 影视,#genre#
 第一滴血全集,http://124.248.69.76:35455/yy/1354932355
 碟中谍系列-国外动作大片,http://124.248.69.76:35455/yy/1354930181
 英叔僵尸 3000部,http://124.248.69.76:35455/yy/1353685311
