@@ -605,7 +605,7 @@ Hot亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 臻彩4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 4k爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+静态4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 华数中数,#genre#
