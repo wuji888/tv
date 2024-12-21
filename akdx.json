@@ -6,8 +6,8 @@
       "name": "Github",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuji888/tv/main/tv",
       "playerType": 1,
-      "ua": "1",
-      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "ua": ""OKhttp/1.31",
+      "epg": "http://diyp11.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gitee.com/wuji88888/wuji/raw/master/logo/{name}.png"
     }
 
