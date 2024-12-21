@@ -1,7 +1,5 @@
 {
   "lives": [
-      
-
     {
       "name": "Github",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuji888/tv/main/tv",
@@ -10,9 +8,6 @@
       "epg": "http://diyp11.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gitee.com/wuji88888/wuji/raw/master/logo/{name}.png"
     }
-
-
     
-
   ]
 }
