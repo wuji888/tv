@@ -272,6 +272,7 @@ NewTV年代大剧,http://zteres.sn.chinamobile.com:6060/000000001000/10000000050
 晴彩篮球,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270006/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=3$iTV1
 晴彩广场舞,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=3$iTV1
 晴彩广场舞,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000270005/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=3$iTV1
+
 iHOT V6,#genre#
 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3$iTV6
 爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3$iTV6
@@ -1053,12 +1054,14 @@ LOL动画剧情解说,https://gitee.com/k-web/ku9/js/wuji88888/wuji/raw/master/j
 晓妞动漫花园o(∩_∩)o,https://gitee.com/k-web/ku9/js/wuji88888/wuji/raw/master/js/douyu.js?id=426517
 
 github,#genre#
-香港环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 中华特产,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/migu.js?id=959986618
 环球旅游,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/migu.js?id=958475356
 四海钓鱼,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/migu.js?id=637444975
 河南梨园,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/migu.js?id=961930369
 河南武术世界,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/migu.js?id=958475359
+香港国际,http://player4.juyun.tv/camera/158562106.m3u8
+香港环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+澳门莲花,https://gitee.com/wuji88888/wuji/raw/master/js/k-web/PLTV/ku9/js/澳门莲花.js$1080p
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051
